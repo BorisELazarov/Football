@@ -1,0 +1,15 @@
+D:\Boris\Programming\Projects\Football\Football\bin\Debug\net6.0\Football.exe
+D:\Boris\Programming\Projects\Football\Football\bin\Debug\net6.0\Football.deps.json
+D:\Boris\Programming\Projects\Football\Football\bin\Debug\net6.0\Football.runtimeconfig.json
+D:\Boris\Programming\Projects\Football\Football\bin\Debug\net6.0\Football.dll
+D:\Boris\Programming\Projects\Football\Football\bin\Debug\net6.0\Football.pdb
+D:\Boris\Programming\Projects\Football\Football\obj\Debug\net6.0\Football.csproj.AssemblyReference.cache
+D:\Boris\Programming\Projects\Football\Football\obj\Debug\net6.0\Football.GeneratedMSBuildEditorConfig.editorconfig
+D:\Boris\Programming\Projects\Football\Football\obj\Debug\net6.0\Football.AssemblyInfoInputs.cache
+D:\Boris\Programming\Projects\Football\Football\obj\Debug\net6.0\Football.AssemblyInfo.cs
+D:\Boris\Programming\Projects\Football\Football\obj\Debug\net6.0\Football.csproj.CoreCompileInputs.cache
+D:\Boris\Programming\Projects\Football\Football\obj\Debug\net6.0\Football.dll
+D:\Boris\Programming\Projects\Football\Football\obj\Debug\net6.0\refint\Football.dll
+D:\Boris\Programming\Projects\Football\Football\obj\Debug\net6.0\Football.pdb
+D:\Boris\Programming\Projects\Football\Football\obj\Debug\net6.0\Football.genruntimeconfig.cache
+D:\Boris\Programming\Projects\Football\Football\obj\Debug\net6.0\ref\Football.dll
